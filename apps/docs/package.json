@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "next dev --port 3001",
+    "dev": "next dev --port 3000",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
@@ -21,7 +21,6 @@
     "autoprefixer": "^10.4.13",
     "eslint-config-custom": "*",
     "postcss": "^8.4.20",
-    "tailwind-config": "*",
     "tailwindcss": "^3.2.4",
     "tsconfig": "*",
     "typescript": "^4.9.4"
